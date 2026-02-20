@@ -26,5 +26,19 @@ I take pride in designing efficient solutions, building meaningful systems, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+<h2>📫 Contact Me</h2>
+
+<p>
+  <a href="mailto:waynestelylamansiang@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="http://www.linkedin.com/in/wayne-stely" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Wayne%20Stely-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
