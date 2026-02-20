@@ -2,7 +2,12 @@
 <h3 align="center">🚀 Software Engineering Enthusiast 🚀 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%"/>
+  <img 
+    src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
+    width="100%"
+    height="350px"
+    style="object-fit: cover; object-position: center;"
+  />
 </p>
 
 <p>
